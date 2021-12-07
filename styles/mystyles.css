@@ -1,0 +1,12 @@
+body{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    color:chocolate;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+a:hover{
+    color: lightskyblue;
+}
